@@ -14,3 +14,7 @@ export const connection = new Connection(RPC_URL, {
 const PRIVATE_KEY = process.env.PRIVATE_KEY || "";
 export const wallet = Keypair.fromSecretKey(Uint8Array.from(bs58.decode(PRIVATE_KEY)));
 export const WSOL = NATIVE_MINT.toBase58();
+
+export const targetWallets = [
+  //input your target wallets
+];

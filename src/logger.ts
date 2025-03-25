@@ -6,7 +6,7 @@ class Logger {
   private originalConsoleLog: any;
   private originalConsoleError: any;
 
-  constructor(logFileName: string = 'transaction-logs.txt') {
+  constructor(logFileName: string = `./src/logs/transaction-logs.log`) {
     this.logFilePath = path.join(process.cwd(), logFileName);
     this.originalConsoleLog = console.log;
     this.originalConsoleError = console.error;
