@@ -1,0 +1,12 @@
+[2025-03-25T08:34:26.039Z] [INFO] Subscribe to trading events for key: 3iyasajvLWsNTeujYqciwpUdWVbRrjAGQrCFEDsq8BEH
+[2025-03-25T08:34:26.113Z] [INFO] Subscribe to trading events for key: EfiKUQy9xwiYJefSHLUf4HnpJaWtgGsYwFYEWkw5WDRS
+[2025-03-25T08:34:26.114Z] [INFO] Subscribe to trading events for key: 5RVAcmwVdjumYGnqBKH9MvjQ1M2apkGhCNoHpvv1yNEj
+[2025-03-25T08:34:26.116Z] [INFO] Subscribe to trading events for key: GW8s7MPgveVFc6RFMDsRQQBQbwbjLrLSCx9YnqubCifS
+[2025-03-25T08:34:52.868Z] [INFO] 🔴 Sold | 2USoe8qbaPM5htcMJ8vDZ4baYzuPvtRWMLiF7yPW4XMb7uKV3PXmm3251ggwKwJiLF798oZ8ETdufwZpqcbnBFHD from wallet: GW8s7MPgveVFc6RFMDsRQQBQbwbjLrLSCx9YnqubCifS | Token: 7tdz79GSDzRdG3XJVV1fhgPB3jBtFf3n8YaxrQPxpump | Amount: -78784.000 | SOL: -0.002040280 | WSOL: 2.027424231 ⚡
+[2025-03-25T08:34:53.265Z] [ERROR] ❌ Swap failed: Insufficient token balance: 0
+[2025-03-25T08:46:58.566Z] [INFO] 🔴 Sold | 2e5roZJLEvifoXZPh6aQfxfkmW5yX2VFrnFVqkLRZJsqYz1CHjCg8PaqkVGoRrN5kZ2SLbNuXrsXw5mYYJDrvMWB from wallet: EfiKUQy9xwiYJefSHLUf4HnpJaWtgGsYwFYEWkw5WDRS | Token: 7tdz79GSDzRdG3XJVV1fhgPB3jBtFf3n8YaxrQPxpump | Amount: -57150.565 | SOL: -0.002040280 | WSOL: 1.225097187 ⚡
+[2025-03-25T08:46:58.874Z] [ERROR] ❌ Swap failed: Insufficient token balance: 0
+[2025-03-25T08:48:15.148Z] [INFO] 🔴 Sold | 5DtUPbkS1Pku53Rhr1s32TubdjYu4FP6FRZFZh3q6DsppDD1szdX7Tu34w25SLG248b2Bdfh1F4JLFEwJpYCxvtb from wallet: EfiKUQy9xwiYJefSHLUf4HnpJaWtgGsYwFYEWkw5WDRS | Token: 7tdz79GSDzRdG3XJVV1fhgPB3jBtFf3n8YaxrQPxpump | Amount: -70357.745 | SOL: -0.002040280 | WSOL: 1.465524802 ⚡
+[2025-03-25T08:48:15.578Z] [ERROR] ❌ Swap failed: Insufficient token balance: 0
+[2025-03-25T08:48:16.305Z] [INFO] 🟢 Bought | 3vFTXwMwvTBaeYtfMECjfEfv1Mwc3EnCMesmi5RVEf1mTgcyLXHZm93iznitiS4ymqwfWj3BonRazZ7XBFCWwedJ from wallet: GW8s7MPgveVFc6RFMDsRQQBQbwbjLrLSCx9YnqubCifS | Token: 7tdz79GSDzRdG3XJVV1fhgPB3jBtFf3n8YaxrQPxpump | Amount: 145171.000 | SOL: -0.000001000 | WSOL: -3.045543615 ⚡
+[2025-03-25T08:48:17.258Z] [ERROR] ❌ Swap failed: Error fetching quote
